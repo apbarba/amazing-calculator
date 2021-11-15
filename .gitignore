@@ -5,7 +5,7 @@ public class IncredibleCalculator {
     public static void main (String [] args) {
 
         System.out.println ("Selecciona la operación que prefieras realizar:");
-        System.out.println ("1. Sumar");
+        System.out.println ("1. Sumar"); //Cambio 1 de la suma
         System.out.println ("2. Restar");
         System.out.println ("3. Multiplicar");
         System.out.println ("4. Dividir (división entera)");
